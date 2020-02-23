@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="visible_tab_count" format="integer" />
+
+    <declare-styleable name="ViewPagerIndicator">
+        <attr name="visible_tab_count" />
+    </declare-styleable>
+
+    <attr name="color_text_normal" format="string" />
+
+    <declare-styleable name="ViewPagerIndicatorColor">
+        <attr name="color_text_normal" />
+    </declare-styleable>
+
+    <attr name="color_text_highlight" format="string" />
+
+    <declare-styleable name="ViewPagerIndicatorHighlightColor">
+        <attr name="color_text_highlight" />
+    </declare-styleable>
+
+</resources>
